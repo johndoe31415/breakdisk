@@ -23,7 +23,7 @@ optional arguments:
                         to a value in bytes. Can also have suffixes 'M', 'G',
                         'T', 'Mi', 'Gi', 'Ti', 's', 'p' or '%' to give the
                         value in Megabytes (10^6), Gigabytes (10^9), Terabytes
-                        (10^12), Mibibytes (2^20), Gibibytes (2^30), Tibibytes
+                        (10^12), Mebibytes (2^20), Gibibytes (2^30), Tebibytes
                         (2^40), sectors (512 bytes), pages (4096 bytes) or a
                         percentage relative to the disk size, respectively.
                         Defaults to 0.
